@@ -1,5 +1,5 @@
 
-public class Server implements Runnabl{
+public class Server implements Runnable{
 
 
 
